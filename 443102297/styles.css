@@ -1,0 +1,46 @@
+
+body {
+    background-color: #696666;
+    font-family: 'Georgia', sans-serif;
+}
+
+
+h1 {
+    color: #092067;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+    margin: 20px;
+}
+
+
+ol {
+    margin: 20px;
+    padding: 2 20px;
+}
+
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 200px; 
+    height: 200px; 
+}
+
+
+a {
+    color: #092067;
+    text-decoration: none;
+    margin: 20px;
+    padding: 2 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
